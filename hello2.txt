@@ -2,3 +2,5 @@ git day 2
 
 new addition
 continue
+
+change in hello2 for cc week02 day02
